@@ -1,2 +1,1 @@
-# website
-我又改东西了！！！！！
+# JavaScript 设计模式学习笔记
